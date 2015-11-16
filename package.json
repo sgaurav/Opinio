@@ -1,0 +1,20 @@
+{
+  "name": "opinio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Singh",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "~1.13.3",
+    "compression": "~1.5.2",
+    "crypto": "0.0.3",
+    "express": "~4.13.3",
+    "http": "0.0.0",
+    "request": "~2.61.0",
+    "underscore": "~1.8.3"
+  }
+}
